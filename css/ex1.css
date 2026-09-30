@@ -1,7 +1,7 @@
 body{
     text-align: center; /* 文字置中 */
     background: #fefae0; /*背景顏色*/
-    color: #bc6c25; /*文字顏色*/
+    color: #00b3b3; /*文字顏色*/
     padding: 0;/*歸零*/
     margin: 0;
 }
@@ -9,11 +9,11 @@ body{
 /*nav*/
 
 nav{
-    background: #bc6c25;
+    background: #00b3b3;
 }
 
 nav a{
-    background: #1affff;
+    background: #00b3b3;
     padding:20px;/*增胖點擊範圍外框*/
     display:inline-block;/*後面內幅橘色增高符合增胖後的大小*/
     color: #fefae0;
@@ -21,7 +21,7 @@ nav a{
 }
 nav a:hover{
     background: #fefae0;
-    color: #bc6c25;
+    color: #00b3b3;
 }
 
 /*section*/
@@ -45,7 +45,7 @@ article img{
 
 article a{
     display:inline-block;
-    color:#bc6c25;
+    color:#006600;
     background: #ffffff;
     text-decoration: none;
     padding-bottom: 20px;
@@ -53,11 +53,11 @@ article a{
 
 article a:hover{ /*滑鼠滑過*/
     color:#ffffff;
-    background: #BC6C25;
+    background: #00b3b3;
 }
 article a:active{/*點擊瞬間，手機。*/
     color:#ffffff;
-    background: #DDA15E;
+    background: #00b3b3;
 }
 
 /*footer*/
