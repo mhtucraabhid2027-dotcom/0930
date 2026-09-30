@@ -13,7 +13,7 @@ nav{
 }
 
 nav a{
-    background: #000000;
+    background: #1affff;
     padding:20px;/*增胖點擊範圍外框*/
     display:inline-block;/*後面內幅橘色增高符合增胖後的大小*/
     color: #fefae0;
@@ -39,7 +39,7 @@ article{
 }
 
 article img{
-    width: 80%;/*圖片多寬*/
+    width: 90%;/*圖片多寬*/
     border-radius: 50%;/*倒多少R角*/
 }
 
